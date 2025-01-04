@@ -20,6 +20,30 @@ function Experience() {
         {/* Undergraduate Research Assistant */}
         <div className="timeline-item">
           <div className="timeline-content loki-card">
+            <h2 className="timeline-title poppins-bold">Student Assistant</h2>
+            <p className="location poppins-bold">
+              CAS Educational Technology, University at Buffalo
+            </p>
+            <p className="duration poppins-bold">July 2024 – Present</p>
+            <p>
+              • Streamlined the organization of 200+ IT assets, improving
+              inventory accuracy by 25% through effective tracking and
+              categorization.
+            </p>
+            <p>
+              • Coordinated the recovery and secure disposal of 50+ devices
+              across campuses, ensuring 100% compliance with UB security
+              policies.
+            </p>
+            <p>
+              • Developed 5+ inventory process guides, enhancing operational
+              efficiency and reducing processing time by 30%.
+            </p>
+          </div>
+        </div>
+        {/* CASet Student Assistant */}
+        <div className="timeline-item">
+          <div className="timeline-content loki-card">
             <h2 className="timeline-title poppins-bold">
               Undergraduate Research Assistant
             </h2>

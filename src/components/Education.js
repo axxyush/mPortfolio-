@@ -12,7 +12,7 @@ function Education() {
       graduationYear: "Fall 2026",
       degree: "Bachelor's of Science",
       logo: ub,
-      description: `As a sophomore with a 3.7 GPA, I'm a member of the Honors College and on the Dean's List. I gain hands-on experience as a Research Assistant and serve as social media manager for the Quant Club. Additionally, I develop leadership skills as a Student Leader at UB Campus Dining and Shops.`,
+      description: `I am actively involved in various academic and extracurricular activities at the University at Buffalo. As a Research Assistant with UB ESC, I contribute to ongoing research projects, while also serving as a Social Media Intern for UB Honors and a Student Assistant at CASet. My dedication and hard work were recognized with a spot on the Dean’s List for both Spring 2024 and Fall 2024.`,
     },
     {
       id: 2,
