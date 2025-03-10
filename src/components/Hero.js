@@ -60,14 +60,15 @@ function Hero() {
               About me
             </h1>
             <p className=" text-light poppins-regular">
-              Computer Science student at the University at Buffalo with
-              experience in web development and research. Currently developing
-              Vocal Lens, an app for detecting language impairments. I’ve also
-              built CRUD projects like Pehcharm, a full-stack BookStore app and
-              Invest Smart, a cryptocurrency tracking tool. Skilled in Java,
-              Python, C, JavaScript, React, and Node.js. Active in campus life
-              as a Student Assistant at CASet and Social Media Manager for Quant
-              Club and Honors College.
+              Hey, I’m Ayush, a CS major at the University at Buffalo who loves
+              blending coding with hands-on tech projects. I’ve built a
+              WiFi/Bluetooth-controlled Wall-E Robot using ESP32, C++, and
+              React, and created Pehcharm, a full-stack app that lets users
+              generate slick portfolio sites. I’m on the hunt for SWE
+              internships and robotics projects where I can keep pushing my
+              limits. When I’m not coding or tinkering with microcontrollers,
+              I’m out on campus supporting tech workshops and helping folks with
+              IT challenges.
             </p>
             <p
               style={{ color: "rgb(117, 190, 249)" }}

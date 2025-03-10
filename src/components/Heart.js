@@ -8,8 +8,8 @@ function Heart() {
     <div
       className="position-relative d-inline-block"
       style={{
-        height: "120px",
-        width: "120px",
+        height: "90px",
+        width: "90px",
       }}
     >
       <img
